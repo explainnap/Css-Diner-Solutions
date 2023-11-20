@@ -1,10 +1,10 @@
 # Css-Diner Solutions
 
-### Link to Site: [Link](https://flukeout.github.io/) https://flukeout.github.io/
+### Link to Site: [Link](https://flukeout.github.io/) :: https://flukeout.github.io/
 
 The primary goal of this project is to create a user-friendly markup solution that enables individuals to tackle CSS Diner challenges seamlessly. Unlike traditional solutions provided, this approach focuses on providing an solution sheet where users can attempt challenges independently before revealing the answers. This feature not only enhances the learning experience but also ensures that users can verify their solutions without unintentionally stumbling upon solutions to other challenges.
 
-
+ If you find this project helpful, consider starring it on GitHub to show your support.
 
 
 ### Level 1
